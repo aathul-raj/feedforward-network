@@ -9,3 +9,5 @@ intro to neural networks and really helps you form an intuitive understanding of
 
 
 <img width="435" alt="Screenshot 2024-08-12 at 5 56 02 PM" src="https://github.com/user-attachments/assets/6bc38237-ec7c-4d5b-8b6a-17823f198ae3">
+
+- Athul Suresh
