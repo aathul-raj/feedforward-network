@@ -4,7 +4,7 @@ Original code can be found here: https://github.com/unexploredtest/neural-networ
 
 The code has been modified by adding ReLU and Leaky ReLU activation functions and their prime functions, He initialization, L2 regularization, learning rate decay, and functions for data augmentation.
 
-I did this because I wanted to learn the underlying math and processes behind modern ML frameworks such as PyTorch and equally as important, because it's cool. If you run the main function unmodified, the network should be able to hit 99% accuracy on MNIST after just a handful of epochs. See the below screenshot for proof. 
+I did this because I wanted to learn the underlying math and processes behind modern ML frameworks such as PyTorch and equally as important, because it's cool. If you run the main function unmodified, the network should be able to hit 99% accuracy on MNIST after just a handful of epochs. See the below screenshot for proof. Be warned though - as the screenshots also indicate, since this code is not optimized for efficiency and is simply meant to be an educational exercise, it can take a while to run. For context, the below run was on an M3 Macbook Air.
 
 Definetly check out the book! It's an amazing intro to neural networks and really helps you form an intuitive understanding of how they work.
 
