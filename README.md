@@ -1,4 +1,4 @@
-# feedforward network library - 99% on MNIST
+# Feedforward Network Library - 99% on MNIST
 
 A simple feedforward neural network library, based off of the code from Micheal Nielsen's excellent book "Neural Networks and Deep Learning".
 
